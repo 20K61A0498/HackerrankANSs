@@ -1,3 +1,4 @@
+#To count Strings in given sentence
 sentence=input()
 sub_str=input()
 l=len(sub_str)
